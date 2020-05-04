@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/FPS/Scenes/ThirdScene 1.unity
+- path: Assets/FPS/Scenes/FourthScene.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
